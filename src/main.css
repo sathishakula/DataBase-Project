@@ -1,0 +1,39 @@
+
+.table_title{
+	font-weight: bold;
+	text-align:center;
+	padding: 10px;
+}.
+qholder{
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+#menu li:hover{
+	cursor: pointer;
+}
+#qerror{
+	border: 1px ;
+	padding: 15px;
+	font-weight: bold;
+	display: none;
+}#menu li:hover a{
+	color:white;
+}
+#menu #menu_title, #menu #menu_title:hover{
+	color: #0000A0;
+	font-weight: bold;
+}
+
+
+.
+#query_tb{
+	min-height: 
+}
+qholder hr{
+	border-bottom: 1px solid  !;
+}
+
+#display .table_container{
+	display: none;
+}
+
